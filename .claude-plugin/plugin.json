@@ -8,6 +8,6 @@
     "url": "https://www.stewardflow.com"
   },
   "homepage": "https://www.stewardflow.com",
-  "license": "LicenseRef-Steward-Plugin",
+  "license": "MIT",
   "privacyPolicyUrl": "https://www.stewardflow.com/privacy"
 }
