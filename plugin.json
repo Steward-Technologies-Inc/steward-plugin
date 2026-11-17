@@ -8,7 +8,7 @@
     "url": "https://www.stewardflow.com"
   },
   "homepage": "https://www.stewardflow.com",
-  "license": "LicenseRef-Steward-Plugin",
+  "license": "MIT",
   "keywords": ["credit cards", "rewards", "points", "card offers", "loyalty"],
   "extensions": {
     "com.openai": {
