@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "steward": {
+      "type": "http",
+      "url": "https://api.stewardflow.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "steward",
+  "version": "0.1.0",
+  "description": "Checks your own cards, saved card offers, rewards and points when you compare where to buy something or whether to pay cash or points.",
+  "author": {
+    "name": "Steward Technologies",
+    "url": "https://www.stewardflow.com"
+  },
+  "homepage": "https://www.stewardflow.com",
+  "license": "LicenseRef-Steward-Plugin",
+  "keywords": ["credit cards", "rewards", "points", "card offers", "loyalty"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Steward",
+        "shortDescription": "Your cards, offers and points",
+        "longDescription": "Steward connects an assistant to your own Steward account: the cards in your wallet, your saved card-linked offers, loyalty status and points balances. When you are choosing where to buy something, which card to use, or whether to pay cash or points for a flight or hotel, the assistant can read what applies to you and say which option comes out ahead and why. Advice only: Steward never buys, books, activates an offer or transfers points. You choose what to share when you connect and can revoke access at any time in the Steward app. Requires a Steward account.",
+        "developerName": "Steward Technologies",
+        "category": "Finance",
+        "capabilities": ["Read"],
+        "websiteURL": "https://www.stewardflow.com",
+        "supportURL": "https://www.stewardflow.com/support",
+        "privacyPolicyURL": "https://www.stewardflow.com/privacy",
+        "termsOfServiceURL": "https://www.stewardflow.com/terms",
+        "defaultPrompt": [
+          "Which of my cards should I use at Whole Foods?",
+          "Do I have any card offers expiring this month?",
+          "What are my points worth right now?"
+        ],
+        "composerIcon": "./assets/logo.png",
+        "logo": "./assets/logo.png"
+      }
+    }
+  }
+}
