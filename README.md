@@ -41,7 +41,7 @@ press Allow. Nothing is shared before that.
 - "Which of my cards should I use at Whole Foods?"
 - "I'm buying a $900 TV. Is Best Buy or Amazon better with my cards?"
 - "Do I have any card offers expiring this month?"
-- "What are my points worth right now?"
+- "How much are the points I have on my cards worth right now?"
 - "Which of my card credits haven't I used this year?"
 
 ## Disconnect

@@ -26,7 +26,7 @@
         "defaultPrompt": [
           "Which of my cards should I use at Whole Foods?",
           "Do I have any card offers expiring this month?",
-          "What are my points worth right now?"
+          "How much are the points I have on my cards worth right now?"
         ],
         "composerIcon": "./assets/logo.png",
         "logo": "./assets/logo.png"
