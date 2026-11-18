@@ -52,7 +52,7 @@ immediately. You can also disconnect from the assistant's own settings.
 ## Privacy
 
 What Steward collects, what an assistant can receive, how long it is kept and who it is
-shared with are set out at <https://www.stewardflow.com/privacy> (section 6 covers AI
+shared with are set out at <https://stewardflows.com/privacy> (section 6 covers AI
 assistants). In short:
 
 - An assistant receives only the categories you allowed, and only when it asks.
@@ -63,4 +63,4 @@ assistants). In short:
 
 ## Support
 
-<https://www.stewardflow.com/support>
+<https://stewardflows.com/support>

@@ -5,9 +5,9 @@
   "description": "Checks your own cards, saved card offers, rewards and points when you compare where to buy something or whether to pay cash or points.",
   "author": {
     "name": "Steward Technologies",
-    "url": "https://www.stewardflow.com"
+    "url": "https://stewardflows.com"
   },
-  "homepage": "https://www.stewardflow.com",
+  "homepage": "https://stewardflows.com",
   "license": "LicenseRef-Steward-Plugin",
-  "privacyPolicyUrl": "https://www.stewardflow.com/privacy"
+  "privacyPolicyUrl": "https://stewardflows.com/privacy"
 }

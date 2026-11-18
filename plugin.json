@@ -5,9 +5,9 @@
   "description": "Checks your own cards, saved card offers, rewards and points when you compare where to buy something or whether to pay cash or points.",
   "author": {
     "name": "Steward Technologies",
-    "url": "https://www.stewardflow.com"
+    "url": "https://stewardflows.com"
   },
-  "homepage": "https://www.stewardflow.com",
+  "homepage": "https://stewardflows.com",
   "license": "LicenseRef-Steward-Plugin",
   "keywords": ["credit cards", "rewards", "points", "card offers", "loyalty"],
   "extensions": {
@@ -19,10 +19,10 @@
         "developerName": "Steward Technologies",
         "category": "Finance",
         "capabilities": ["Read"],
-        "websiteURL": "https://www.stewardflow.com",
-        "supportURL": "https://www.stewardflow.com/support",
-        "privacyPolicyURL": "https://www.stewardflow.com/privacy",
-        "termsOfServiceURL": "https://www.stewardflow.com/terms",
+        "websiteURL": "https://stewardflows.com",
+        "supportURL": "https://stewardflows.com/support",
+        "privacyPolicyURL": "https://stewardflows.com/privacy",
+        "termsOfServiceURL": "https://stewardflows.com/terms",
         "defaultPrompt": [
           "Which of my cards should I use at Whole Foods?",
           "Do I have any card offers expiring this month?",
