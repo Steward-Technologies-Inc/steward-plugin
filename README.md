@@ -21,8 +21,6 @@ optionally your loyalty programmes and offers.
 
 ## Connect
 
-The connection is not open to the public yet. When it is:
-
 **Claude.** Settings, Connectors, Add custom connector, and enter
 `https://api.stewardflow.com/mcp`. Once Steward is listed in Claude's directory you can
 connect from there instead.
